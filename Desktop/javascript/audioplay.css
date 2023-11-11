@@ -1,0 +1,16 @@
+button{
+
+width: 100px;
+height: 50px;
+margin: 20px;
+background-color: cyan;
+}
+
+
+.anim{
+box-shadow: 0 15px 0 rgba(17, 6, 175, 0.628);
+opacity: 0.5;
+
+
+
+}
